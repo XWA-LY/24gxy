@@ -1,17 +1,17 @@
 [
   {
     "remark": "自定义用户备注名称",
-    "phone": "手机号",
-    "password": "密码",
-    "province": "xx省",
-    "city": "xx市",
-    "area": "xx区",
-    "address": "最终打卡页面显示的文字，xx省 · xx市 · 某路边",
-    "longitude": "经度(精确到小数点后六位)",
-    "latitude": "纬度(精确到小数点后六位)",
+    "phone": "17671365092",
+    "password": "Wsj.176~0104%",
+    "province": "湖北省",
+    "city": "武汉市",
+    "area": "江岸区区",
+    "address": "湖北省 · 武汉市 · 江岸区 · 在绿地汉口中心写字楼附近",
+    "longitude": "114.291820",
+    "latitude": "30.656316",
     "randomLocation": true,
     "enable": true,
     "desc": "打卡备注",
-    "pushKey": "pushplus官网获取的key，需要实名"
+    "pushKey": "99e79ee5ef1e4504b7de453563205206"
   }
 ]
